@@ -1,4 +1,4 @@
-a=3
+a=raw_input("")
 
 if (a>0):
   
